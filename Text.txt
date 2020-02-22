@@ -1,1 +1,4 @@
-Hi this is my frist git project 
+Hi this is my frist git project. 
+
+change made by developer 2
+
